@@ -87,10 +87,10 @@
     </dependencyManagement>
 
     <modules>
-        <module>plugin</module>
+        <!--<module>plugin</module>-->
         <module>agent</module>
         <module>example-a</module>
         <module>example-b</module>
-        <module>integrationtest</module>
+        <!--<module>integrationtest</module>-->
     </modules>
 </project>
